@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: T05_Reposition
+  m_EditorClassIdentifier: 
+  cardName: "\u7ACB\u56DE"
+  description: "\u53CC\u65B9\u5411\u540E\u79FB\u52A81\u683C\u3002\u4E0B\u6B21\u653B\u51FB\u4F24\u5BB3+30%\uFF08\u6682\u4EE5+1\u5B9E\u73B0\uFF09"
+  cardType: 1
+  staminaCost: 3
+  speedValue: 2
+  baseDamage: 0
+  cardArt: {fileID: 21300000, guid: 916531e15f0a0050dd56235553b4d06b, type: 3}
+  effects:
+  - type: 7
+    value: 1
+    secondary: 0
+    duration: 0

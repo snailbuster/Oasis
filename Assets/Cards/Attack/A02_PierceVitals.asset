@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: A02_PierceVitals
+  m_EditorClassIdentifier: 
+  cardName: "\u523A\u5165\u8981\u5BB3"
+  description: "\u8FD1\u8EAB\u65F6\u9644\u52A0\u6D41\u88401\uFF08\u6301\u7EED3\u79D2\uFF09\uFF1B\u8FDC\u8DDD\u65F6\u9760\u8FD11"
+  cardType: 0
+  staminaCost: 3
+  speedValue: 2
+  baseDamage: 3
+  cardArt: {fileID: 21300000, guid: b59a5058088aea39c608d67d633c7a7a, type: 3}
+  effects:
+  - type: 2
+    value: 1
+    secondary: 0
+    duration: 3
+  - type: 3
+    value: 1
+    secondary: 0
+    duration: 0

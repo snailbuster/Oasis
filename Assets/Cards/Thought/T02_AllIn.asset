@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: T02_AllIn
+  m_EditorClassIdentifier: 
+  cardName: "\u5B64\u6CE8\u4E00\u63B7"
+  description: "\u672C\u573A\u81EA\u5DF1\u8FDB\u653B\u5361\u4F24\u5BB3+2\uFF0C\u4F46\u53D7\u5230\u4F24\u5BB3+1\uFF08\u6301\u7EED10\u79D2\uFF09"
+  cardType: 1
+  staminaCost: 3
+  speedValue: 3
+  baseDamage: 0
+  cardArt: {fileID: 21300000, guid: 33b5a65e385f40622c7882dcf5c6ed0a, type: 3}
+  effects:
+  - type: 8
+    value: 2
+    secondary: 1
+    duration: 10

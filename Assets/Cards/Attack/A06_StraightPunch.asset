@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: A06_StraightPunch
+  m_EditorClassIdentifier: 
+  cardName: "\u51B2\u62F3"
+  description: "\u51FB\u90003\uFF08\u6682\u672A\u5B9E\u73B0\u4F4D\u79FB\uFF09"
+  cardType: 0
+  staminaCost: 4
+  speedValue: 1
+  baseDamage: 1
+  cardArt: {fileID: 21300000, guid: f101f8b97229e4cde99af3cc61a056cd, type: 3}
+  effects: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: A04_IronFistPact
+  m_EditorClassIdentifier: 
+  cardName: "\u94C1\u62F3\u5951\u7EA6"
+  description: "\u4E0B\u6B21\u653B\u51FB\u8FFD\u52A02\u70B9\u4F24\u5BB3"
+  cardType: 0
+  staminaCost: 3
+  speedValue: 2
+  baseDamage: 2
+  cardArt: {fileID: 21300000, guid: e5c18af9d6df424faf41f895e19dc13c, type: 3}
+  effects:
+  - type: 5
+    value: 2
+    secondary: 0
+    duration: 0

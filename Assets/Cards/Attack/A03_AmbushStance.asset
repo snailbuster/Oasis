@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e58f13db0361784eb6b8b6ee7693904, type: 3}
+  m_Name: A03_AmbushStance
+  m_EditorClassIdentifier: 
+  cardName: "\u5077\u88AD\u59FF\u6001"
+  description: "\u84C4\u529B\u671F\u62A4\u75322\uFF0C\u547D\u4E2D\u540E+3\u4F53\u529B"
+  cardType: 0
+  staminaCost: 3
+  speedValue: 3
+  baseDamage: 4
+  cardArt: {fileID: 21300000, guid: 0a0af014c2c138ac54d6fe8573a67196, type: 3}
+  effects:
+  - type: 4
+    value: 2
+    secondary: 0
+    duration: 0
